@@ -10,7 +10,7 @@ require (
 	github.com/onsi/gomega v1.16.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/common v0.26.0
-	go.opentelemetry.io/otel v0.20.0
+	go.opentelemetry.io/otel v1.6.3
 	go.opentelemetry.io/otel/exporters/otlp v0.20.0
 	go.opentelemetry.io/otel/metric v0.20.0
 	go.opentelemetry.io/otel/sdk/metric v0.20.0
